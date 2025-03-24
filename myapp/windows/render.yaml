@@ -1,0 +1,5 @@
+services:
+- type : web
+name:flutter-app
+buildCommand:flutter build web
+publishPath:build/web
